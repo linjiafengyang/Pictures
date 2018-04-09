@@ -1,2 +1,2 @@
 # Pictures
-Pictures For Blogs
+Pictures For My Blog
